@@ -26,15 +26,15 @@ ganalytics: UA-113961478-1
 authors:
   febria:
     name: Febria Anisaningrum
-    display_name: febria
+    display_name: Febria Anisaningrum
     avatar: 'assets/images/febria.png'
     email: febria.annisa@gmail.com
     web: https://febriaanisa.github.io
-    twitter: https://twitter.com/febriaanisa
+    twitter: https://twitter.com/FebriaWangdu
     description: "Author of Febria blog."
   bondan:
     name: Bondan Murdani Soleh
-    display_name: Bondan
+    display_name: Bondan Murdani Soleh
     avatar: 'assets/images/john.png'
     email: wowthemesnet@gmail.com
     web: https://bondan.my.id
@@ -45,7 +45,7 @@ authors:
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  twitter: https://twitter.com/FebriaWangdu
 
 # Plugins
 plugins: 
