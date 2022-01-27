@@ -3,8 +3,8 @@ email: febria.annisa@gmail.com
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-logo: 'assets/images/F.png'
-favicon: 'assets/images/F.ico'
+logo: 'assets/images/favicon.png'
+favicon: 'assets/images/logo.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
