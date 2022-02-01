@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Diskusi Simpanan Gedung dalam Pencatatan Akuntansi"
+author: febria
+categories: [ akuntansi ]
+image: assets/images/1.jpg
+---
+## Latar Belakang
+Dalam sebuah percakapan saya penasaran dengan simpanan gedung dalam suatu transaksi di sebuah koperasi. Penasaran karena saya masih sebagai mahasiswa dengan predikat akuntansi beginer, alasan kedua adalah saya baru menjadi karyawan dengan pengalaman pertama yang dalam pencatatan sebelumnya belum ada.
+
+## Pembahasan Awal
+Dalam hal sewa gedung kantor koperasi sudah ditanggung dengan yang namanya simpanan gedung oleh para anggota koperasi. Transaksi ini akan menambak Kas. Jadi jika di buat Jurnalnya, maka sebagai berikut
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Kas</td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>  Simpanan Gedung</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
+
+## Permasalahan
+Diketahui bahwa akun Simpanan Gedung adalah termasuk ekuitas yang jika dia ada dalam kredi maka nilainya bertambah. Permasalahannya adalah ketika melakukan pembayaran sewa gedung yang berkurang adalah Akun Kas pada beban sewa.
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Beban Sewa</td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>  Kas</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
+
+Jurnal di atas memberitahukan kepada kita bahwa yang berkurang adalah kas tanpa adanya reaksi pada simpanan gedung yang harusnya juga berkurang nilainya.
+
+## Pembahasan Akhir
+Logikanya jika ada simpanan gedung dari para anggota koperasi, organisasi ketika melakukan pembayaran sewa seperti tidak ada beban sewa. Maka dalam alam pikiran saya ada ayat jurnal penyesuaian yang harus melibatkan Akun simpanan gedung. Sebagai berikut;
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Simpanan Gedung</td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>  Beban Sewa</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
+Dari ayat jurnal penyesuaian diatas kita bisa membalik di buku besar bahwa beban sewa adalah berilai nol (0), dan mengurangi nilai simpanan gedung. Itu pemahaman saya sampai sekarang
+
+## Akhir Kata
+Jika pembaca ada yang berbeda pendapat bisa menuliskan di kolom komentar
+
