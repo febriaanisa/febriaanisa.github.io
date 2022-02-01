@@ -21,12 +21,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-JGR09RQHBN
+    
 
-plugins:
-        - jekyll-google-search-console-verification-file
-
-     google_search_console:
-       verification_file_code=epGHsvrm3_3CNUQYLaogpVKOa95IqwaPlICCNoxLz8s
+google_search_console: verification_file_code=epGHsvrm3_3CNUQYLaogpVKOa95IqwaPlICCNoxLz8s
 
 # Authors
 authors:
@@ -60,3 +57,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-google-search-console-verification-file
