@@ -9,7 +9,7 @@ image: assets/images/1.jpg
 Dalam sebuah percakapan saya penasaran dengan simpanan gedung dalam suatu transaksi di sebuah koperasi. Penasaran karena saya masih sebagai mahasiswa dengan predikat akuntansi beginer, alasan kedua adalah saya baru menjadi karyawan dengan pengalaman pertama yang dalam pencatatan sebelumnya belum ada.
 
 ## Pembahasan Awal
-Dalam hal sewa gedung kantor koperasi sudah ditanggung dengan yang namanya simpanan gedung oleh para anggota koperasi. Transaksi ini akan menambak Kas. Jadi jika di buat Jurnalnya, maka sebagai berikut
+Dalam hal sewa gedung kantor koperasi sudah ditanggung dengan yang namanya simpanan gedung oleh para anggota koperasi. Transaksi ini akan menambah Kas pada Simpanan Gedung. Jadi, jika kita buat Jurnalnya, maka sebagai berikut;
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -25,7 +25,7 @@ Dalam hal sewa gedung kantor koperasi sudah ditanggung dengan yang namanya simpa
       <td></td>
     </tr>
     <tr>
-      <td>  Simpanan Gedung</td>
+      <td>&nbsp;&nbsp;Simpanan Gedung</td>
       <td></td>
       <td>Xxx</td>
     </tr>  
@@ -49,7 +49,7 @@ Diketahui bahwa akun Simpanan Gedung adalah termasuk ekuitas yang jika dia ada d
       <td></td>
     </tr>
     <tr>
-      <td>  Kas</td>
+      <td>&nbsp;&nbsp;Kas</td>
       <td></td>
       <td>Xxx</td>
     </tr>  
@@ -59,7 +59,7 @@ Diketahui bahwa akun Simpanan Gedung adalah termasuk ekuitas yang jika dia ada d
 Jurnal di atas memberitahukan kepada kita bahwa yang berkurang adalah kas tanpa adanya reaksi pada simpanan gedung yang harusnya juga berkurang nilainya.
 
 ## Pembahasan Akhir
-Logikanya jika ada simpanan gedung dari para anggota koperasi, organisasi ketika melakukan pembayaran sewa seperti tidak ada beban sewa. Maka dalam alam pikiran saya ada ayat jurnal penyesuaian yang harus melibatkan Akun simpanan gedung. Sebagai berikut;
+Logikanya jika ada simpanan gedung dari para anggota koperasi, maka organisasi ketika melakukan pembayaran sewa seperti tidak ada beban sewa. Dalam alam pikiran saya harus ada ayat jurnal penyesuaian yang melibatkan Akun simpanan gedung. Sebagai berikut;
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -75,7 +75,7 @@ Logikanya jika ada simpanan gedung dari para anggota koperasi, organisasi ketika
       <td></td>
     </tr>
     <tr>
-      <td>  Beban Sewa</td>
+      <td>&nbsp;&nbsp;Beban Sewa</td>
       <td></td>
       <td>Xxx</td>
     </tr>  
