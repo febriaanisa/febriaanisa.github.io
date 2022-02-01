@@ -81,7 +81,7 @@ Logikanya jika ada simpanan gedung dari para anggota koperasi, organisasi ketika
     </tr>  
   </tbody>
 </table>
-Dari ayat jurnal penyesuaian diatas kita bisa membalik di buku besar bahwa beban sewa adalah berilai nol (0), dan mengurangi nilai simpanan gedung. Itu pemahaman saya sampai sekarang
+Dari ayat jurnal penyesuaian di atas kita bisa membalik di dalam buku besar bahwa beban sewa adalah berilai nol (0), dan mengurangi nilai simpanan gedung. Itu pemahaman saya sampai sekarang
 
 ## Akhir Kata
 Jika pembaca ada yang berbeda pendapat bisa menuliskan di kolom komentar
