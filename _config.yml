@@ -22,6 +22,12 @@ sass:
   style: :compressed
 ganalytics: G-JGR09RQHBN
 
+plugins:
+        - jekyll-google-search-console-verification-file
+
+     google_search_console:
+       verification_file_code=epGHsvrm3_3CNUQYLaogpVKOa95IqwaPlICCNoxLz8s
+
 # Authors
 authors:
   febria:
