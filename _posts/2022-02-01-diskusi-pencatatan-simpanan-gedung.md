@@ -118,18 +118,40 @@ Disesuaikan pada jurnal penyesuaian pada akhir bulan;
   </thead>
   <tbody>
     <tr>   
-      <td>Pendapatan Simpanan Gedung/td>
+      <td>Pendapatan Simpanan Gedung</td>
       <td>Xxx</td>
       <td></td>
     </tr>
     <tr>
-      <td>&nbsp;&nbsp;Sewa Dibawayar Dimuka</td>
+      <td>&nbsp;&nbsp;&nbsp;Sewa Dibawayar Dimuka</td>
       <td></td>
       <td>Xxx</td>
     </tr>  
   </tbody>
 </table>
 
+Dan jurnal pembaliknya;
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Sewa Dibawayar Dimuka</td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;Pendapatan Simpanan Gedung</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
 
 ## Akhir Kata
 Jika pembaca ada yang berbeda pendapat bisa menuliskan di kolom komentar
