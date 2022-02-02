@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diskusi Simpanan Gedung dalam Pencatatan Akuntansi"
+title: "Diskusi Simpanan Gedung dalam Pencatatan Akuntansi"
 author: febria
 categories: [ akuntansi ]
 image: assets/images/1.jpg
