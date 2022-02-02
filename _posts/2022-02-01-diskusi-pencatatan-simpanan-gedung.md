@@ -83,6 +83,54 @@ Logikanya jika ada simpanan gedung dari para anggota koperasi, maka organisasi k
 </table>
 Dari ayat jurnal penyesuaian di atas kita bisa membalik di dalam buku besar bahwa beban sewa adalah berilai nol (0), dan mengurangi nilai simpanan gedung. Itu pemahaman saya sampai sekarang
 
+## Ternyata Menurut Teori
+Dalam artikel [Jurnal entrepreneur](https://www.jurnal.id/id/blog/2017-pengertian-fungsi-dan-contoh-transaksi-jurnal-pembalik/#2_Pendapatan_Diterima_di_Muka/?target=_blank) menempatkan simpanan gedung menjadi jenis pendapatan. Walaupun gambaran jurnal umumnya sama dengan jurnal umum diatas, namun punya perlakuan berbeda;
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Kas</td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;Pendapatan Simpanan Gedung</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
+Disesuaikan pada jurnal penyesuaian pada akhir bulan;
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Akun</th>
+      <th scope="col">Debet</th>
+      <th scope="col">Kredit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>   
+      <td>Pendapatan Simpanan Gedung/td>
+      <td>Xxx</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;Sewa Dibawayar Dimuka</td>
+      <td></td>
+      <td>Xxx</td>
+    </tr>  
+  </tbody>
+</table>
+
+
 ## Akhir Kata
 Jika pembaca ada yang berbeda pendapat bisa menuliskan di kolom komentar
 
