@@ -5,7 +5,7 @@ baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/fevicon.ico'
-author: Sal
+author: febria
 paginate: 30
 disqus: 'febriaanisa'
 locale: en_us
