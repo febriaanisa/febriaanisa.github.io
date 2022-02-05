@@ -23,7 +23,8 @@ sass:
 ganalytics: G-JGR09RQHBN
     
 
-google_search_console: verification_file_code=AyRGKtWRKBxgthTSy4Jd0vMFV3D2SOA9DU_avlXf-Zs
+google_search_console:
+       verification_file_code: 5de4167caaf2fe48
 
 # Authors
 authors:
