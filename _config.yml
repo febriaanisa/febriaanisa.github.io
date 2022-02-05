@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/fevicon.ico'
+favicon: 'assets/images/favicon.ico'
 author: febria
 paginate: 30
 disqus: 'febriaanisa'
