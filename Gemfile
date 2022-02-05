@@ -9,6 +9,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+$ ls _site/ | grep "google.*\.html" google5de4167caaf2fe48.html
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
