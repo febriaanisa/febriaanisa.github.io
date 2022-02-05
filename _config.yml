@@ -83,3 +83,12 @@ plugins:
 - jekyll-seo-tag
 - jekyll-archives
 - jekyll-google-search-console-verification-file
+
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
