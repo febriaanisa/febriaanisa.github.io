@@ -1,7 +1,9 @@
 ---
-layout : post
+layout: post
 title: Percobaan Menggunakan CMS Jekyll
 ---
 ## Awal Cerita
 
 Adalah kebutuhan bagi setiap blogger untuk menggunakan jenis cms yang penuh dengan layanan
+
+aplikasi ini menggunakan jekyllcms.grep.ro
