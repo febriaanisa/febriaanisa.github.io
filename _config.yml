@@ -1,11 +1,11 @@
-title: "Febria Anisaningrum"
+title: "Feb"
 email: 
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: febria
+author: feb
 paginate: 30
 disqus: 'febriaanisa'
 locale: en_us
@@ -53,16 +53,16 @@ enable_google_verification: true   # enables google site verification
 # Authors
 authors:
   febria:
-    name: Febria Anisaningrum
-    display_name: Febria Anisaningrum
-    avatar: 'assets/images/febria.png'
+    name: Febria 
+    display_name: Febria
+    avatar: 'assets/images/sal.png'
     email: 
     web: https://febriaanisa.github.io
     twitter: 
     description: "Author of Febria blog."
   bondan:
     name: 
-    display_name: Bondan Murdani Soleh
+    display_name: 
     avatar: 'assets/images/john.png'
     email: 
     web: 
