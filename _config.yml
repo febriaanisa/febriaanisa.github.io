@@ -1,5 +1,5 @@
 title: "Febria Anisaningrum"
-email: febria.annisa@gmail.com
+email: 
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
@@ -56,24 +56,24 @@ authors:
     name: Febria Anisaningrum
     display_name: Febria Anisaningrum
     avatar: 'assets/images/febria.png'
-    email: febria.annisa@gmail.com
+    email: 
     web: https://febriaanisa.github.io
-    twitter: https://twitter.com/FebriaWangdu
+    twitter: 
     description: "Author of Febria blog."
   bondan:
-    name: Bondan Murdani Soleh
+    name: 
     display_name: Bondan Murdani Soleh
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://bondan.my.id
-    twitter: https://twitter.com/bondanhadoh
+    email: 
+    web: 
+    twitter: 
     description: "Ini adalah editor with Github pages."
 
 # Social
 social:
-  instagram: https://www.instagram.com/febria.ann/
-  facebook: https://www.facebook.com/febria.wangdu/
-  twitter: https://twitter.com/FebriaWangdu
+  instagram: https://www.instagram.com/#/
+  facebook: https://www.facebook.com/#/
+  twitter: https://twitter.com/#
 
 # Plugins
 plugins: 
